@@ -1,4 +1,4 @@
-# Corporate Campus Hiring Report 🎓📊
+# Corporate Campus Hiring Analysis Report 🎓📊
 A comprehensive analysis of corporate hiring trends across industries, locations, job roles, and salary distributions to provide data-driven insights for recruiters and job seekers.
 
 [<img src="https://varsitypro.club/wp-content/uploads/2024/07/CAMPUS-PLACEMENT-1.jpg" alt="report1" width="1000" height="450">](https://varsitypro.club/wp-content/uploads/2024/07/CAMPUS-PLACEMENT-1.jpg) &nbsp;
