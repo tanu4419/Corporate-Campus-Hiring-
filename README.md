@@ -13,6 +13,10 @@ Campus hiring plays a crucial role in talent acquisition, with companies leverag
 ## Data Source :
 Dataset : [Corporate Campus Hiring Dataset](https://github.com/tanu4419/Corporate-Campus-Hiring-/blob/main/campus_hiring_Dataset.csv)
 
+## Tools Used :
+- Power BI (Data Analysis & Visualization)
+- Excel (Data Cleaning & Processing)
+
 ## Key Objectives :
 1. **Job Market Overview** :
  Understand the distribution of job roles and hiring trends across industries.et.
